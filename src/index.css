@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+
+  /* background: #C04848;  
+  background: -webkit-linear-gradient(to right, #480048, #C04848); 
+  background: linear-gradient(to right, #480048, #C04848);  */
+ 
+  /* background: #833ab4;  
+background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  
+background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  */
+
+/* background: #fc00ff; 
+background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  
+background: linear-gradient(to right, #00dbde, #fc00ff);  */
+  
+
+background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+button{
+   cursor: pointer;
+ }
