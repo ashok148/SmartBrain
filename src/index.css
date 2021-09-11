@@ -11,12 +11,12 @@ body {
 background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  
 background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  */
 
-/* background: #fc00ff; 
+background: #fc00ff; 
 background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  
-background: linear-gradient(to right, #00dbde, #fc00ff);  */
+background: linear-gradient(to right, #00dbde, #fc00ff); 
   
 
-background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/* background: linear-gradient(to right, #333399, #ff00cc);  */
 
 }
 button{
